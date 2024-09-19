@@ -1,0 +1,10 @@
+body {
+  background-color: pink;
+  color: brown;
+}
+
+img {
+  width: 90vw;
+  display: block;
+  margin: 0 auto;
+}
